@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dacyborg87/dacyborg87/blob/9edffe8b1772951b6c4b962929358077809ee2ff/githyblocs.png?raw=true" alt="DaCyborg in Training Banner" width="100%">
+</p>
+
 # 👋 Hi, I’m Dominic Jones (aka DaCyborg87)
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=datadog)
