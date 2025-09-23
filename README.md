@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE" alt="DaCyborg87 Banner" width="100%">
-</p>
-
 # 👋 Hi, I’m Dominic Jones (aka DaCyborg87)
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=datadog)
