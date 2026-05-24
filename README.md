@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/dacyborg87/dacyborg87/blob/main/githyblocs.png?raw=true" alt="DaCyborg in Training Banner" width="100%" />
-</p>
-
----
 
 # 👋 Hi, I’m Dominic Jones (aka **dacyborg87**)
 
